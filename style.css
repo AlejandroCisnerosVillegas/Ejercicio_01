@@ -1,0 +1,21 @@
+body 
+{
+	background-color: #F2F2F2;
+	font: bold 14px Arial;
+	text-align:center;
+}
+table
+{
+	 border-collapse: collapse;
+	background-color:white;
+}
+#tr1
+{
+		font: bold 16px Arial;
+}
+td
+{
+	padding: 6px 14px;
+	
+	text-align:center;
+}
