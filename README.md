@@ -18,11 +18,11 @@ El script PHP inserta filas en la tabla para los números del 1 al 15:
 
 Esta actividad demuestra habilidades en el uso de tecnologías web front-end y back-end, proporcionando una solución efectiva para la visualización de cálculos matemáticos en una interfaz web.
 
-**Consulta la versión preliminar del ejercicio aquí:** [https://ejercicio_01.com](https://alejandrovillegas.net/projects/exercise-01/index.php)
+**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_01.com](https://alejandrovillegas.net/projects/exercise-01/index.php)
 
-# 📌 Información del Ejercicio
+# 📌 Información del Actividad
 
-Este ejercicio ha sido desarrollado como parte del portafolio de soluciones tecnológicas, con el objetivo de ofrecer una herramienta eficiente y funcional para usuarios autodidactas interesados en la gestión y desarrollo de proyectos web.
+Esta actividad ha sido desarrollado como parte del portafolio de soluciones tecnológicas, con el objetivo de ofrecer una herramienta eficiente y funcional para usuarios autodidactas interesados en la gestión y desarrollo de proyectos web.
 
 - **Área**: Desarrollo de Actividades Web
 
@@ -32,10 +32,8 @@ Este ejercicio ha sido desarrollado como parte del portafolio de soluciones tecn
 
 - **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
 
-# Guía de Instalación y Configuración del Ejercicio
-
-## 🔧 Instalación y Configuración del Ejercicio
+## 🔧 Guía de Instalación y Configuración de la Actividad
 
 1. Descargue y descomprima el archivo del proyecto en su sistema local.
 
-El ejercicio ahora está funcionando en su entorno local. 🎉
+La actividad ahora está funcionando en su entorno local. 🎉
