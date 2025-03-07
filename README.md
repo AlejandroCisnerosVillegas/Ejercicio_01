@@ -20,7 +20,7 @@ Esta actividad demuestra habilidades en el uso de tecnologías web front-end y b
 
 **Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_01.com](https://alejandrovillegas.net/projects/exercise-01/index.php)
 
-# 📌 Información del Actividad
+# 📌 Información de la Actividad
 
 Esta actividad ha sido desarrollado como parte del portafolio de soluciones tecnológicas, con el objetivo de ofrecer una herramienta eficiente y funcional para usuarios autodidactas interesados en la gestión y desarrollo de proyectos web.
 
